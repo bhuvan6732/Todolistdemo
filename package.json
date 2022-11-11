@@ -1,5 +1,6 @@
 {
   "name": "todolist",
+  "homepage": "https://bhuvan6732.github.io/TODOLIST",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
