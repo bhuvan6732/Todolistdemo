@@ -2,12 +2,11 @@
     
     color: black;
     background-color: rgb(226, 244, 189);
-    
-    
+    font-size: 30px;
     text-align: center;
     align-items: center;
     font-weight: 700;
-    padding: 50px;
+    padding: 30px;
     margin: 5px;
     margin-left: 25%;
     margin-right: 25%;
