@@ -2,7 +2,7 @@
     
     color: black;
     background-color: rgb(226, 244, 189);
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     align-items: center;
     font-weight: 700;
@@ -10,4 +10,12 @@
     margin: 5px;
     margin-left: 25%;
     margin-right: 25%;
+}
+@media screen and (max-width:900px){
+    .header-container{
+        font-size: 15px;
+        margin-left: 5%;
+        margin-right: 5%;
+
+    }
 }
